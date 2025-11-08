@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: MATLAB; SPYDER;
+title: MATLAB;
 message: lenguaje m; python
 type: software
 authors:
@@ -13,11 +13,9 @@ authors:
 repository-code: >-
   https://matlab.mathworks.com/open/github/v1?repo=AbigailVilla/Practica4MSF
 keywords:
-  - Sistema cardiovascular
-  - Controlador PI
-  - Paciente normotenso
-  - Paciente hipotenso
-  - Paciente hipertenso
+  - Regeneración de glóbulos rojos
+  - Modelo matemático
+  - Simulaciones numéricas
 license: BSD-2-Clause
 version: 1..0
-date-released: '2025-17-10'
+date-released: '2025-07-11'
